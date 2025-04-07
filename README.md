@@ -2,13 +2,19 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-```git clone https://github.com/nischaldinesh/infoViz.git```
+```Clone the github repo
+git clone https://github.com/nischaldinesh/infoViz.git
+```
 
+```cd into the cloned repo folder
 cd infoviz
+```
 
+```install all the required packages
 npm install
+```
 
-First, run the development server:
+run the development server:
 
 ```bash
 npm run dev
